@@ -1,3 +1,23 @@
+hw1567
+*   c3143f1 9th commit
+|\
+| *   5402a6e 6th commit
+| |\
+| * | 42f1d8c 5th commit
+* | |   12a4ed9 8th commit
+|\ \ \
+| | |/
+| |/|
+| * |   4a68348 4th commit (3th on master).
+| |\ \
+| | |/
+| | * 9128521 2nd commit (1st on testing).
+* | | 1aec261 7th commit
+|/ /
+* | 30fd6b0 3rd commit (2nd on testing)
+|/
+* 9e854cc 1st commit (1st on master).
+
 lg2755
 *   da03502 Merge branch 'Test2'
 |\  
@@ -39,3 +59,23 @@ yt1209
 * | e709288 3rd commit (2nd on master)
 |/  
 * 5e517da 1st commit (1st on master)
+
+zr463
+*   2727b0e 9
+|\
+| *   484957d 6
+| |\
+| * | 67f6c73 5
+* | |   dab45ad 8
+|\ \ \
+| | |/
+| |/|
+| * |   af68b5c 4
+| |\ \
+| | |/
+| | * e9b66ea 2
+* | | d7a0b3e test2
+|/ /
+* | 8025574 3
+|/
+* 65da3f2 1
