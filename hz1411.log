@@ -38,6 +38,28 @@ hz1411
 |/
 * bd61c93 1st commit (1st on master)
 
+lg2755
+*   da03502 Merge branch 'Test2'
+|\
+| *   cb0fb52 Merge branch 'master' into Test2
+| |\
+| * | 9b94ae1 4th commit (1st on Test2)
+* | |   d161b96 Merge branch 'Test1'
+|\ \ \
+| |_|/
+|/| |
+| * | bfd978f 5th commit (2nd on Test1)
+* | |   4aac906 Merge branch 'Test1'
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
+| * c657e13 2nd commit (1st on Test1)
+* | de1ce3f 3rd commit (2nd on master)
+|/
+* ba43dc7 1st commit (1st on master)
+
 zr463
 *   2727b0e 9
 |\
