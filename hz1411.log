@@ -1,0 +1,39 @@
+hz1411
+*   4e14e8c 9th commit (3rd on test2)
+|\
+| *   86e4c45 7th commit (3rd on test1)
+| |\
+| * | 2ef790d 6th commit (2nd on test1)
+* | |   37133d8 8th commit (2nd on test2)
+|\ \ \
+| | |/
+| |/|
+| * |   1d37cbb 5th commit (3rd on master)
+| |\ \
+| | |/
+| | * e0e273c 2nd commit (1st on test1)
+* | | b8919ab 4th commit (1st on test2)
+|/ /
+* | 9972d27 3rd commit (2nd on master)
+|/
+* bd61c93 1st commit (1st on master)
+
+yt1209
+*   d2254d9 9th commit(test2 merge test1)
+|\  
+| *   5928248 7th commit(test1 merge master)
+| |\  
+| * | 45fc8f4 6th commit(2nd commit on test1)
+* | |   5078031 8th commit (test2 merge master)
+|\ \ \  
+| | |/  
+| |/|   
+| * |   f5b8eec 5th commit(master merge test1)
+| |\ \  
+| | |/  
+| | * 281cf79 2nd commit (1st commit on test1)
+* | | 21e14f9 4th commit(1st on test2)
+|/ /  
+* | e709288 3rd commit (2nd on master)
+|/  
+* 5e517da 1st commit (1st on master)

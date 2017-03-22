@@ -1,0 +1,39 @@
+hw1567
+*   c3143f1 9th commit
+|\
+| *   5402a6e 6th commit
+| |\
+| * | 42f1d8c 5th commit
+* | |   12a4ed9 8th commit
+|\ \ \
+| | |/
+| |/|
+| * |   4a68348 4th commit (3th on master).
+| |\ \
+| | |/
+| | * 9128521 2nd commit (1st on testing).
+* | | 1aec261 7th commit
+|/ /
+* | 30fd6b0 3rd commit (2nd on testing)
+|/
+* 9e854cc 1st commit (1st on master).
+
+yt1209
+*   d2254d9 9th commit(test2 merge test1)
+|\  
+| *   5928248 7th commit(test1 merge master)
+| |\  
+| * | 45fc8f4 6th commit(2nd commit on test1)
+* | |   5078031 8th commit (test2 merge master)
+|\ \ \  
+| | |/  
+| |/|   
+| * |   f5b8eec 5th commit(master merge test1)
+| |\ \  
+| | |/  
+| | * 281cf79 2nd commit (1st commit on test1)
+* | | 21e14f9 4th commit(1st on test2)
+|/ /  
+* | e709288 3rd commit (2nd on master)
+|/  
+* 5e517da 1st commit (1st on master)

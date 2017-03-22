@@ -1,0 +1,41 @@
+lg2755
+*   da03502 Merge branch 'Test2'
+|\  
+| *   cb0fb52 Merge branch 'master' into Test2
+| |\  
+| * | 9b94ae1 4th commit (1st on Test2)
+* | |   d161b96 Merge branch 'Test1'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | bfd978f 5th commit (2nd on Test1)
+* | |   4aac906 Merge branch 'Test1'
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * c657e13 2nd commit (1st on Test1)
+* | de1ce3f 3rd commit (2nd on master)
+|/  
+* ba43dc7 1st commit (1st on master)
+
+yt1209
+*   d2254d9 9th commit(test2 merge test1)
+|\  
+| *   5928248 7th commit(test1 merge master)
+| |\  
+| * | 45fc8f4 6th commit(2nd commit on test1)
+* | |   5078031 8th commit (test2 merge master)
+|\ \ \  
+| | |/  
+| |/|   
+| * |   f5b8eec 5th commit(master merge test1)
+| |\ \  
+| | |/  
+| | * 281cf79 2nd commit (1st commit on test1)
+* | | 21e14f9 4th commit(1st on test2)
+|/ /  
+* | e709288 3rd commit (2nd on master)
+|/  
+* 5e517da 1st commit (1st on master)
